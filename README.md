@@ -78,7 +78,7 @@
 - [ ] Parallel port
 - [ ] 12 headphone jacks
 - [ ] Onboard cloud
-- [ ] New BrithgtGlow™ display incorporates genetically spliced jellyfish
+- [ ] New BritghtGlow™ display incorporates genetically spliced jellyfish
       protein (should have used the glowing genes, not the stinging ones)
 - [ ] ✓ certified
 - [x] Software-defined
