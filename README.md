@@ -1,5 +1,6 @@
 # xkcd phone
 
+(This is just a dump of an idea, I haven't started on this yet.)
 
 ## Features
 
