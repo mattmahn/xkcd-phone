@@ -111,8 +111,39 @@
 - [ ] Hook shot
 
 
+### [Phone 6][comic6]
+
+  - [ ] 4k pixels (50×80)
+  - [ ] Radium backlight
+  - [ ] Sterile Packaging
+  - [ ] College-ruled
+  - [ ] Broad-spectrum SPF30
+  - [ ] Pre-seasoned
+  - [ ] Burns clean coal
+  - [ ] Includes applicator
+  - [ ] Fonts developed by NASA
+  - [ ] Shroud of Turin-style facial transfer lock
+  - [ ] High thread count CPU
+  - [ ] Screen goes past the edge
+  - [ ] Safe for ages 6-8 months, 10 months, 18 months to 3 years, and 12 years or older
+  - [ ] Wireless charging port
+  - [ ] Full-width rear camera
+  - [ ] CDC Partnership: Phone automatically administers seasonal flu vaccine to cheek every year
+  - [ ] 12-function
+  - [ ] Dishwasher safe
+  - [ ] GPS transmitter
+  - [ ] 3-G acceleration
+  - [ ] Portable, solar-heated
+  - [ ] Pore-cleaning strip
+  - [ ] Maximum strength
+  - [ ] Never needs sharpening
+  - [ ] Can survive up to 30 minutes out of water
+  - [ ] Exclusive Audubon Society app identifies birds and lets you control their flight
+
+
 [comic1]: https://xkcd.com/1363/
 [comic2]: https://xkcd.com/1465/
 [comic3]: https://xkcd.com/1549/
 [comic4]: https://xkcd.com/1707/
 [comic5]: https://xkcd.com/1809/
+[comic6]: https://xkcd.com/1889/
